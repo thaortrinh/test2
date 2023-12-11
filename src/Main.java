@@ -3,5 +3,7 @@ public class Main {
         System.out.println("Hi again!");
         AddFile a = new AddFile();
         System.out.println(a.returnMessage());
+
+        System.out.println("Edited: add this line.");
     }
 }
